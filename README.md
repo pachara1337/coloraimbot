@@ -11,6 +11,8 @@ you need to have AutoItX which can be downloaded [at](https://www.autoitscript.c
 
 -which u can scan by using Finder Tool from AutoIt v3 window info 
 
+**[VIDEO WHILE USING](https://www.youtube.com/watch?v=ONwFx7Rb96Y)***
+
 
 ***credit to swedz c#***
 
