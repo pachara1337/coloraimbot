@@ -13,6 +13,8 @@ you need to have AutoItX which can be downloaded [at](https://www.autoitscript.c
 
 ***[VIDEO WHILE USING](https://www.youtube.com/watch?v=ONwFx7Rb96Y)***
 
+***[VIDEO SHOWING HOW TO CHANGE COLOR CODE](https://www.youtube.com/watch?v=UiCWInunnFs)***
+
 
 ***credit to swedz c#***
 
