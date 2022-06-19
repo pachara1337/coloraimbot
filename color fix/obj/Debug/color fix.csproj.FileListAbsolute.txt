@@ -1,0 +1,13 @@
+C:\Users\pacha\source\repos\color fix\color fix\bin\Debug\color fix.exe.config
+C:\Users\pacha\source\repos\color fix\color fix\bin\Debug\color fix.exe
+C:\Users\pacha\source\repos\color fix\color fix\bin\Debug\color fix.pdb
+C:\Users\pacha\source\repos\color fix\color fix\obj\Debug\color fix.csproj.AssemblyReference.cache
+C:\Users\pacha\source\repos\color fix\color fix\obj\Debug\color fix.csproj.SuggestedBindingRedirects.cache
+C:\Users\pacha\source\repos\color fix\color fix\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\pacha\source\repos\color fix\color fix\obj\Debug\color fix.csproj.ResolveComReference.cache
+C:\Users\pacha\source\repos\color fix\color fix\obj\Debug\color_fix.Form1.resources
+C:\Users\pacha\source\repos\color fix\color fix\obj\Debug\color_fix.Properties.Resources.resources
+C:\Users\pacha\source\repos\color fix\color fix\obj\Debug\color fix.csproj.GenerateResource.cache
+C:\Users\pacha\source\repos\color fix\color fix\obj\Debug\color fix.csproj.CoreCompileInputs.cache
+C:\Users\pacha\source\repos\color fix\color fix\obj\Debug\color fix.exe
+C:\Users\pacha\source\repos\color fix\color fix\obj\Debug\color fix.pdb
