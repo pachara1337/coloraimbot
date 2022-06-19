@@ -1,7 +1,7 @@
 # 2Dcoloraimbot
 this C# 2Dcoloraimbot will aim and click on specific color
 
-you need to have AutoItX which can be download [at](https://www.autoitscript.com/site/autoit/downloads/)
+you need to have AutoItX which can be downloaded [at](https://www.autoitscript.com/site/autoit/downloads/)
 
 -add AutoItX.dll to References
 
