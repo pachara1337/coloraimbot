@@ -18,3 +18,6 @@ you need to have AutoItX which can be downloaded [at](https://www.autoitscript.c
 
 ***credit to swedz c#***
 
+
+
+***wtf my youtube chanel got banned idk why maybe because I upload vdo that teach about 2D color aimbot? wtf***
