@@ -20,4 +20,4 @@ you need to have AutoItX which can be downloaded [at](https://www.autoitscript.c
 
 
 
-***wtf my youtube chanel got banned idk why maybe because I upload vdo that teach about 2D color aimbot? wtf***
+***wtf my youtube chanel got banned idk why maybe because I uploaded vdo that teach about 2D color aimbot? wtf***
