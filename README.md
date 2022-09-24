@@ -9,7 +9,7 @@ you need to have AutoItX which can be downloaded [at](https://www.autoitscript.c
 
 -first and second num will be left top, third and fourth num will be right bottom coordinate and on fifth num it will be color code
 
--which u can scan by using Finder Tool from AutoIt v3 window info 
+*which u can scan by using Finder Tool from AutoIt v3 window info 
 
 ***[VIDEO WHILE USING](https://www.youtube.com/watch?v=ONwFx7Rb96Y)***
 
